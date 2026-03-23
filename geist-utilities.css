@@ -1,0 +1,284 @@
+/* GEIST Typography System */
+.text-heading-72 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    letter-spacing: -4.32px;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 72px
+}
+
+.text-heading-64 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    letter-spacing: -3.84px;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 64px
+}
+
+.text-heading-56 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    letter-spacing: -3.36px;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 56px
+}
+
+.text-heading-48 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    letter-spacing: -2.88px;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 56px
+}
+
+.text-heading-40 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    letter-spacing: -2.4px;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px
+}
+
+.text-heading-32 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    letter-spacing: -1.28px;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px
+}
+
+.text-heading-32>strong {
+    --tw-text-opacity: 1;
+    color: hsla(var(--ds-gray-900-value),var(--tw-text-opacity));
+    font-weight: 500
+}
+
+.text-heading-24 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    letter-spacing: -.96px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px
+}
+
+.text-heading-20 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    letter-spacing: -.4px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px
+}
+
+.text-heading-16 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    letter-spacing: -.32px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px
+}
+
+.text-heading-14 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    letter-spacing: -.28px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px
+}
+
+.text-label-16 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px
+}
+
+.text-label-14 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px
+}
+
+.text-copy-16 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px
+}
+
+.text-copy-14 {
+    font-family: var(--font-sans,var(--font-sans-fallback)),ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px
+}
+
+/* GEIST Material Design Components */
+.material-base {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--ds-gray-alpha-400);
+    --tw-bg-opacity: 1;
+    background-color: hsla(var(--ds-background-100-value),var(--tw-bg-opacity));
+    border-radius: 6px
+}
+
+:is(.dark-theme .material-base) {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--ds-gray-300-value),var(--tw-border-opacity))
+}
+
+.material-small {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--ds-gray-alpha-400);
+    --tw-bg-opacity: 1;
+    background-color: hsla(var(--ds-background-100-value),var(--tw-bg-opacity));
+    background-clip: padding-box;
+    border-radius: 6px;
+    box-shadow: 0 1px 2px #0000000a
+}
+
+:is(.dark-theme .material-small) {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--ds-gray-300-value),var(--tw-border-opacity))
+}
+
+.material-medium {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--ds-gray-alpha-400);
+    --tw-bg-opacity: 1;
+    background-color: hsla(var(--ds-background-100-value),var(--tw-bg-opacity));
+    background-clip: padding-box;
+    border-radius: 6px;
+    box-shadow: 0 2px 2px #0000000a,0 8px 8px -8px #0000000a
+}
+
+:is(.dark-theme .material-medium) {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--ds-gray-300-value),var(--tw-border-opacity))
+}
+
+.material-large {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--ds-gray-alpha-400);
+    --tw-bg-opacity: 1;
+    background-color: hsla(var(--ds-background-100-value),var(--tw-bg-opacity));
+    background-clip: padding-box;
+    border-radius: 12px;
+    box-shadow: 0 2px 2px #0000000a,0 8px 16px -4px #0000000a
+}
+
+:is(.dark-theme .material-large) {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--ds-gray-300-value),var(--tw-border-opacity))
+}
+
+.material-tooltip {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--ds-gray-alpha-400);
+    --tw-bg-opacity: 1;
+    background-color: hsla(var(--ds-background-100-value),var(--tw-bg-opacity));
+    background-clip: padding-box;
+    border-radius: 6px;
+    box-shadow: 0 1px 1px #00000005,0 4px 8px #0000000a
+}
+
+:is(.dark-theme .material-tooltip) {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--ds-gray-300-value),var(--tw-border-opacity))
+}
+
+.material-menu {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--ds-gray-alpha-400);
+    --tw-bg-opacity: 1;
+    background-color: hsla(var(--ds-background-100-value),var(--tw-bg-opacity));
+    background-clip: padding-box;
+    border-radius: 12px;
+    box-shadow: 0 1px 1px #00000005,0 4px 8px -4px #0000000a,0 16px 24px -8px #0000000f
+}
+
+:is(.dark-theme .material-menu) {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--ds-gray-300-value),var(--tw-border-opacity))
+}
+
+.material-modal {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--ds-gray-alpha-400);
+    --tw-bg-opacity: 1;
+    background-color: hsla(var(--ds-background-100-value),var(--tw-bg-opacity));
+    background-clip: padding-box;
+    border-radius: 12px;
+    box-shadow: 0 1px 1px #00000005,0 8px 16px -4px #0000000a,0 24px 32px -8px #0000000f
+}
+
+:is(.dark-theme .material-modal) {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--ds-gray-300-value),var(--tw-border-opacity))
+}
+
+.material-fullscreen {
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--ds-gray-alpha-400);
+    --tw-bg-opacity: 1;
+    background-color: hsla(var(--ds-background-100-value),var(--tw-bg-opacity));
+    background-clip: padding-box;
+    border-radius: 16px;
+    box-shadow: 0 1px 1px #00000005,0 8px 16px -4px #0000000a,0 24px 32px -8px #0000000f
+}
+
+:is(.dark-theme .material-fullscreen) {
+    --tw-border-opacity: 1;
+    border-color: hsla(var(--ds-gray-300-value),var(--tw-border-opacity))
+}
+
+/* GEIST Spacing System */
+:root,:host {
+    /* Base spacing scale (4px increments) */
+    --geist-space: 4px;
+    --geist-space-2x: 8px;
+    --geist-space-3x: 12px;
+    --geist-space-4x: 16px;
+    --geist-space-6x: 24px;
+    --geist-space-8x: 32px;
+    --geist-space-10x: 40px;
+    --geist-space-16x: 64px;
+    --geist-space-24x: 96px;
+    --geist-space-32x: 128px;
+    --geist-space-48x: 192px;
+    --geist-space-64x: 256px;
+    
+    /* Named semantic spacing */
+    --geist-space-small: 32px;
+    --geist-space-medium: 40px;
+    --geist-space-large: 48px;
+    
+    /* Gap system (for flexbox/grid) */
+    --geist-space-gap: 24px;
+    --geist-space-gap-half: 12px;
+    --geist-space-gap-quarter: 8px;
+    --geist-gap: var(--geist-space-gap);
+    --geist-gap-half: var(--geist-space-gap-half);
+    --geist-gap-quarter: var(--geist-space-gap-quarter);
+    --geist-gap-double: var(--geist-space-large);
+    
+    /* Negative spacing (for negative margins) */
+    --geist-space-negative: -4px;
+    --geist-space-2x-negative: -8px;
+    --geist-space-4x-negative: -16px;
+    --geist-space-8x-negative: -32px;
+    --geist-space-gap-negative: -24px;
+    
+    /* Page layout */
+    --geist-page-margin: var(--geist-space-gap);
+    --geist-page-width: 1200px;
+    --geist-page-width-with-margin: calc(var(--geist-page-width) + calc(2 * var(--geist-page-margin)));
+}
